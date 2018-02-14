@@ -81,7 +81,7 @@ test.skip('can be used to do some fancy stuff with arrays', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Proxies&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Proxies&em=nayara.nap@gmail.comnayara.nap@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
